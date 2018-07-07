@@ -1,0 +1,76 @@
+body {
+    min-height: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.64282;
+    color: rgb(70, 62, 62);
+    background:#fff;
+}
+body > div.root {
+    min-height: 100%;
+}
+
+.container {
+    min-height: 100vh;
+    position: relative;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brand h1 a {
+    font-size: 1.1em;
+    color: #f0f5ff;
+    background:rgb(46, 43, 43);
+    margin: 0;
+    padding: 0.25em;
+    letter-spacing: 0.0005em;
+    text-decoration: none;
+}
+.nav-links {
+    list-style: none;
+}
+.nav-links li {
+    display: inline-block;
+    padding: 1em;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+.flex-section-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.flex-section-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;   
+}
+.main {
+    border: 1px solid #fff;
+}
+.hero {
+    color: rgb(24, 21, 21);
+    font-size: 3em;
+    font-weight: 800;
+    text-align: center;
+    max-width: 1000px;
+    line-height: 1.4em;
+}
+.border {
+    border: 1px solid #000;
+}
+.section-title h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+.section-descrip p {
+    font-size: 1.1em;
+}
+.section-descrip span {
+    font-size: 1.1em;
+    font-weight: 800;
+}
