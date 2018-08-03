@@ -30,3 +30,13 @@ firebase deploy
 .firebaserc - firebase stuff
 firebase.json - firebaset stuff
 ```
+
+## Test and Security
+```
+https://www.ssllabs.com/ssltest/analyze.html?d=sigmaleaf.com
+https://www.ssllabs.com/ssltest/analyze.html?d=sigmaleaf.com&s=151.101.65.195
+https://www.ssllabs.com/ssltest/analyze.html?d=sigmaleaf.com&s=151.101.1.195
+A+
+
+
+```
