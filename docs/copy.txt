@@ -1,10 +1,10 @@
 [logo] RGB leafs
 [navigation] Home Products About Contact
 [hero title] Sigmaleaf is a Canadian technology company.
-[slogan] We do research and development in cryptocurrency, machine learning and fintech.
-[products] Tokenleaf
+[slogan] We are a software and machine learning company based in Toronto.
+[products] 
 [questions] Ask us anything.
-[jobs] Want to get involved? Reach us.
+[jobs] Want to get involved? Contact us.
 
 
 
